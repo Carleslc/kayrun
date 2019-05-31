@@ -20,10 +20,10 @@ mucha sed de aventuras.
 DEMO de aproximadamente 1 hora de juego.
 Disponible para WINDOWS.
 
-1. Descarga el juego.
-2. [Descarga](https://mega.nz/#!941xHSab!4rQAKzqIbixS0XTfTeaQdV9N4kLyjApJ9a4dJuOL8NA) e instala el paquete de recursos RTP ejecutando el fichero `Setup.exe`
+1. [Descarga](https://github.com/Carleslc/kayrun/archive/master.zip) el juego.
+2. [Descarga](https://mega.nz/#!941xHSab!4rQAKzqIbixS0XTfTeaQdV9N4kLyjApJ9a4dJuOL8NA) el paquete de recursos RTP y ejecuta el fichero `Setup.exe`
 3. Ejecuta `Game.exe`
 
 Puedes guardar tu partida para continuar más tarde.
 
-Para saber los controles y más información lee el Manual de Instrucciones.
+Para saber los controles y más información lee el [Manual de Instrucciones](https://github.com/Carleslc/kayrun/blob/master/Manual%20de%20Instrucciones.pdf).
