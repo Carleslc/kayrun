@@ -21,8 +21,8 @@ DEMO de aproximadamente 1 hora de juego.
 Disponible para WINDOWS.
 
 1. Descarga el juego.
-2. Instala el paquete de recursos RTP ejecutando el fichero Setup.exe.
-3. Ejecuta Game.exe
+2. [Descarga](https://mega.nz/#!941xHSab!4rQAKzqIbixS0XTfTeaQdV9N4kLyjApJ9a4dJuOL8NA) e instala el paquete de recursos RTP ejecutando el fichero `Setup.exe`
+3. Ejecuta `Game.exe`
 
 Puedes guardar tu partida para continuar más tarde.
 
